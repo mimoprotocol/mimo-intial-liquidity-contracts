@@ -1,6 +1,11 @@
-MIMO Rocket
+mimo initial liquiidty reward contracts
 ===========
-depoly 
+
+Smart contracts used in mimo's initial liquidity reward event.
+
+
+
+# depoly 
 
 ## step1
 set .env private key
